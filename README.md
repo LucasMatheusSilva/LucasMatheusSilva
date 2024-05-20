@@ -4,10 +4,7 @@
 
 ### Algumas informações úteis sobre mim 👇
 
-- Sou aluno da unicesumar no curso de ADS ✏️
-- Faço parte de um projeto para a criação de uma Marktplace para peças publicitarias :mega:
-- Neste momento estou focado em C# :yellow_heart:
-- Atualmente sou estagiário em um hospital infantil, porém estou sempre disposto a novas oportunidades :dollar:
+Apenas tentando ser alguem melhor
 
 
 ### Minhas redes sociais 👇
